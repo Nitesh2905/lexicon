@@ -1,0 +1,15 @@
+.appbar {
+  padding: 0.5rem;
+  background-color: rgb(116, 140, 248);
+}
+
+.inputs {
+  margin: 5.5rem;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.search {
+  width: 43%;
+}
